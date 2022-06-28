@@ -18,9 +18,6 @@
 <style>
      body {
         background-color:black;
-        height:100vh;
-        width:100vw;
-        margin: 25px;
         color:white;
         font-family: 'Raleway', sans-serif;
         padding: 10px;
